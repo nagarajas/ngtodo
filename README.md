@@ -1,1 +1,1 @@
-angular todo application
+Developed sample angular 6 todo application
